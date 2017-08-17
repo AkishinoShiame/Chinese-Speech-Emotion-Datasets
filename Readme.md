@@ -12,7 +12,7 @@ This dataset includes the sound speech data also converted spectrogram. Which is
 
 ## Important !!!
 
-Please includes peper belows if you used it.
+Please cites this peper belows if you used it.
 
 Lee, M. C., Yeh, S. C., Chiu, S. Y., & Chang, J. W. (2017, June). [A Deep Convolutional Neural Network Based Virtual Elderly Companion Agent.](http://dl.acm.org/citation.cfm?id=3083220)
 
